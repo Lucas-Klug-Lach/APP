@@ -2,12 +2,12 @@
 #include <stdlib.h>
 #include <locale.h>
 #include "calculos.h"
-#include "banco.h"
+#include "database.h"
 
 int main(){
 	setlocale(LC_ALL, "portuguese_Brazil");
 
-	
+	criar_banco();
 	
 	
 	
