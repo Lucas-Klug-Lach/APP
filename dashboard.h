@@ -1,0 +1,1 @@
+void DashBoard(char sexo, char nome, int idade, float massa, float altura);
